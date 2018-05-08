@@ -356,3 +356,20 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 
 	Evaluating final conditions of ring...
 <img width="620" alt="some_ring_final" src="https://user-images.githubusercontent.com/9918239/39738689-1f70e1e6-5252-11e8-8f72-570d677f5194.png">
+
+### vsa.py
+	python3 vsatest.py
+	
+	Part 2 -----------------------------
+
+	Winner is D (should be D)
+
+	Part 3 -----------------------------
+
+	Winner is peso (should be peso)
+
+	Part 5 -----------------------------
+
+	Decoded sequence is ['A' 'B' 'C' 'D' 'E' 'F' 'G'] (should be [A, B, C, D, E, F, G])
+
+	Decoded sequence is ['A' 'C' 'E'] (should be [A, C, E])
