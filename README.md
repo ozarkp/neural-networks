@@ -5,7 +5,7 @@ Implementations of various neural networks from the CSCI 252: Neural Networks (a
 Excluding the optical_flow-image_convolution example, all neural networks should be used with Python3. Open-CV does not work in Python3 without extra work.
 
 ### hopfield.py
-	python3 hopfield.py
+	$ python3 hopfield.py
 
 	Part 2: Vector-cosine confusion matrix of an array with itself ------------
 	
@@ -64,7 +64,7 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 	
 
 ### backprop.py
-	python3 backprop.py
+	$ python3 backprop.py
 	
 	...
 	Iterative training data
@@ -78,7 +78,7 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 	
 
 ### lsa.py
-	python3 lsa.py
+	$ python3 lsa.py
 	
 	Step 1: Construct term-document matrix A and query matrix q:
 	
@@ -148,7 +148,7 @@ Excluding the optical_flow-image_convolution example, all neural networks should
  	[-0.6492  0.7194 -0.2469]] 
 
 
-	Step 4: Find the new document vector coordinates in this reduced 2-dimensional space. Rows of V holds eigenvector values. 		These are the coordinates of individual document vectors, hence:
+	Step 4: Find the new document vector coordinates in this reduced 2-dimensional space. Rows of V holds eigenvector values. These are the coordinates of individual document vectors, hence:
 	
 	V:
  	[[-0.4945 -0.6492]
@@ -173,6 +173,8 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 	
 ### sdm.py
 ##### Must have matplotlib installed for Python3 (done easily with the 'pip3 install matplotlib' command
+	$ python3 sdm.py
+	
 	Part 4: Recover pattern afer 25% noise added
 
 	  *       * * * * * * *         
@@ -343,7 +345,7 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 	          * * * * * *        
 						
 ### som.py
-	python3 som.py
+	$ python3 som.py
 
 	Evaluating initial conditions of square...
 <img width="628" alt="som_square_init" src="https://user-images.githubusercontent.com/9918239/39738642-f04ab432-5251-11e8-91f0-3ff6e7a7a81e.png">
@@ -358,7 +360,7 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 <img width="620" alt="some_ring_final" src="https://user-images.githubusercontent.com/9918239/39738689-1f70e1e6-5252-11e8-8f72-570d677f5194.png">
 
 ### vsa.py
-	python3 vsatest.py
+	$ python3 vsatest.py
 	
 	Part 2 -----------------------------
 
