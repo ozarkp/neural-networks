@@ -344,15 +344,15 @@ Excluding the optical_flow-image_convolution example, all neural networks should
 						
 ### som.py
 	python3 som.py
-	
+
 	Evaluating initial conditions of square...
-	<img width="628" alt="som_square_init" src="https://user-images.githubusercontent.com/9918239/39738642-		f04ab432-5251-11e8-91f0-3ff6e7a7a81e.png">
-	
+<img width="628" alt="som_square_init" src="https://user-images.githubusercontent.com/9918239/39738642-f04ab432-5251-11e8-91f0-3ff6e7a7a81e.png">
+
 	Evaluating final conditions of square...
-	<img width="632" alt="som_square_final" src="https://user-images.githubusercontent.com/9918239/39738681-186b4896-5252-11e8-87fb-e9ccafddf511.png">
-	
+<img width="632" alt="som_square_final" src="https://user-images.githubusercontent.com/9918239/39738681-186b4896-5252-11e8-87fb-e9ccafddf511.png">
+
 	Evaluating initial conditions of ring...
-	<img width="625" alt="som_ring_init" src="https://user-images.githubusercontent.com/9918239/39738686-1cd2712a-5252-11e8-8526-613a35ad63f7.png">
-	
+<img width="625" alt="som_ring_init" src="https://user-images.githubusercontent.com/9918239/39738686-1cd2712a-5252-11e8-8526-613a35ad63f7.png">
+
 	Evaluating final conditions of ring...
-	<img width="620" alt="some_ring_final" src="https://user-images.githubusercontent.com/9918239/39738689-1f70e1e6-5252-11e8-8f72-570d677f5194.png">
+<img width="620" alt="some_ring_final" src="https://user-images.githubusercontent.com/9918239/39738689-1f70e1e6-5252-11e8-8f72-570d677f5194.png">
